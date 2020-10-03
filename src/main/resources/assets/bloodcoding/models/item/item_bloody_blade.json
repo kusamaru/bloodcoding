@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "bloodcoding:item/item_bloody_blade"
+    }
+}

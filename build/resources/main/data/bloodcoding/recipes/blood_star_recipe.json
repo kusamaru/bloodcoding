@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BNB",
+        "NSN",
+        "BNB"
+    ],
+    "key": {
+        "B": {
+            "item": "bloodcoding:block_blood_cluster"
+        },
+        "N": {
+            "item": "minecraft:netherite_block"
+        },
+        "S": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "bloodcoding:item_blood_star"
+    }
+}

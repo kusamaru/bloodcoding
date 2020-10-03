@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " SN",
+        "BTS",
+        "SB "
+    ],
+    "key": {
+        "B": {
+            "item": "bloodcoding:item_blood_star"
+        },
+        "T": {
+            "item": "minecraft:netherite_sword"
+        },
+        "S": {
+            "item": "bloodcoding:item_red_stick"
+        },
+        "N": {
+            "item": "minecraft:netherite_block"
+        }
+    },
+    "result": {
+        "item": "bloodcoding:item_bloody_blade"
+    }
+}

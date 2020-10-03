@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    "key": {
+        "B": {
+            "item": "bloodcoding:block_mob_blood"
+        }
+    },
+    "result": {
+        "item": "bloodcoding:block_blood_cluster"
+    }
+}

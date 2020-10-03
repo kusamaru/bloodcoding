@@ -1,5 +1,10 @@
 {
     "item.bloodcoding.item_mob_blood": "Blood",
+    "item.bloodcoding.item_red_stick": "Red Stick",
+    "item.bloodcoding.item_blood_star": "Blood Star",
+    "item.bloodcoding.item_bloody_blade": "Bloody Blade",
     "item.bloodcoding.block_mob_blood": "Blood Block",
-    "item.bloodcoding.block_blood_cluster": "Blood Cluster"
+    "item.bloodcoding.block_blood_cluster": "Blood Cluster",
+    "block.bloodcoding.block_mob_blood": "Blood Block",
+    "block.bloodcoding.block_blood_cluster": "Blood Cluster"
 }
