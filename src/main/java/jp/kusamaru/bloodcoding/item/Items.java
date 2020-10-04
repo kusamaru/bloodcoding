@@ -28,6 +28,7 @@ public class Items
     public static final Item ITEM_BLOOD_STAR = register("item_blood_star", new Item((new Item.Properties()).group(ItemGroup.MATERIALS)));
     public static final Item BLOCK_MOB_BLOOD = register("block_mob_blood", Blocks.BLOCK_MOB_BLOOD, ItemGroup.BUILDING_BLOCKS);
     public static final Item BLOCK_BLOOD_CLUSTER = register("block_blood_cluster", Blocks.BLOCK_BLOOD_CLUSTER, ItemGroup.BUILDING_BLOCKS);
+    public static final Item BLOCK_BLOOD_INJECTOR = register("block_blood_injector", Blocks.BLOCK_BLOOD_INJECTOR, ItemGroup.DECORATIONS);
 
     private static Item register(String key, Item itemIn)
     {

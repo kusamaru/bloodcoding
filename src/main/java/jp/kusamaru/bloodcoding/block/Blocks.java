@@ -17,6 +17,8 @@ import java.util.List;
 public class Blocks
 {
     public static List<Block> blockList = new ArrayList<Block>();
+
+    public static Block BLOCK_BLOOD_INJECTOR = register("block_blood_injector", new BlockBloodInjector(AbstractBlock.Properties.create(Material.IRON).hardnessAndResistance(0.25F).sound(SoundType.METAL)));    
     public static Block BLOCK_MOB_BLOOD = register("block_mob_blood", new Block(AbstractBlock.Properties.create(Material.WOOD).hardnessAndResistance(0.25F).sound(SoundType.SLIME)));
     public static Block BLOCK_BLOOD_CLUSTER = register("block_blood_cluster", new Block(AbstractBlock.Properties.create(Material.WOOD).hardnessAndResistance(0.25F).sound(SoundType.SLIME)));
 

@@ -9,6 +9,6 @@ public class ItemBloodyBlade extends SwordItem
 {
     public ItemBloodyBlade(Properties properties)
     {
-        super(Materials.MATERIAL_BLOODY, 1, -1F, properties);
+        super(Materials.MATERIAL_BLOODY, 1, -0.5F, properties);
     }
 }

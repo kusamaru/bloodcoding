@@ -5,6 +5,8 @@
     "item.bloodcoding.item_bloody_blade": "Bloody Blade",
     "item.bloodcoding.block_mob_blood": "Blood Block",
     "item.bloodcoding.block_blood_cluster": "Blood Cluster",
+    "item.bloodcoding.block_blood_injector": "Blood Injector",
     "block.bloodcoding.block_mob_blood": "Blood Block",
-    "block.bloodcoding.block_blood_cluster": "Blood Cluster"
+    "block.bloodcoding.block_blood_cluster": "Blood Cluster",
+    "block.bloodcoding.block_blood_injector": "Blood Injector"
 }

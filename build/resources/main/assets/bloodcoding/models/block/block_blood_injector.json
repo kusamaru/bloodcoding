@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+      "up": "bloodcoding:block/block_injector_top",
+      "north": "bloodcoding:block/block_injector_side",
+      "south": "bloodcoding:block/block_injector_side",
+      "east": "bloodcoding:block/block_injector_side",
+      "west": "bloodcoding:block/block_injector_side",
+      "down": "bloodcoding:block/block_injector_bottom"
+    }
+  }
