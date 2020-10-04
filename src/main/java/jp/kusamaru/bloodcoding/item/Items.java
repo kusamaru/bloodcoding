@@ -21,7 +21,8 @@ public class Items
 {
     public static List<Item> itemList = new ArrayList<Item>();
 
-    public static final Item ITEM_BLOODY_BLADE = register("item_bloody_blade", new Item((new Item.Properties()).group(ItemGroup.TOOLS)));
+    public static final Item ITEM_BLOODY_BLADE = register("item_bloody_blade", new ItemBloodyBlade((new Item.Properties()).group(ItemGroup.TOOLS)));
+
     public static final Item ITEM_MOB_BLOOD = register("item_mob_blood", new Item((new Item.Properties()).group(ItemGroup.MATERIALS)));
     public static final Item ITEM_RED_STICK = register("item_red_stick", new Item((new Item.Properties()).group(ItemGroup.MATERIALS)));
     public static final Item ITEM_BLOOD_STAR = register("item_blood_star", new Item((new Item.Properties()).group(ItemGroup.MATERIALS)));
